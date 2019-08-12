@@ -1,0 +1,21 @@
+{
+  "short_name": "Test App",
+  "name": "Test App",
+  "icons": [
+    {
+      "src": "app/icons/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "app/icons/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#343a40",
+  "display": "standalone",
+  "theme_color": "#343a40",
+  "prefer_related_applications": false
+}
