@@ -18,4 +18,6 @@ function displayNotification() {
   }
 }
 
-displayNotification();
+$('.show-notification').click(function(){
+    displayNotification();
+})
